@@ -1,4 +1,4 @@
-# About project
+# About the project
  The goal of this very small project was to get acquainted with basic typescript with react and also to try to deploy the project using gh-pages. \
  [Live demo](https://maciejlys.github.io/birthdayReminder/)
 
