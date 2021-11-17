@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# About project
+ The goal of this very small project was to get acquainted with basic typescript with react and also to try to deploy the project using gh-pages.
+ [Live demo](https://maciejlys.github.io/birthdayReminder/)
+
+ This was created using styles from [john-smilga](https://github.com/john-smilga/react-projects/tree/master/01-birthday-reminder/final) project.
+
+# Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
